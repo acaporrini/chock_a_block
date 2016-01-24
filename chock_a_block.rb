@@ -47,7 +47,6 @@ while (quantity ||= 0) < 100000 do
                            :headers => {"X-Starfighter-Authorization" => apikey}
                            )
 
-  puts response.headers["levelInstances"]
 
   # check that the order has been submited correctly
   case response.code

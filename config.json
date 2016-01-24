@@ -1,6 +1,6 @@
 {
-  "apikey" : "foobar",
-  "venue" : "foobar",
-  "stock" : "foobar",
+  "apikey"  : "foobar",
+  "venue"   : "foobar",
+  "stock"   : "foobar",
   "account" : "foobar"
 }
